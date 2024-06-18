@@ -12,7 +12,7 @@ Password : 123
 
 Atau
 
-Username : Wahyu
+Username : demo
 Password : demo
 
 ##  Untuk Login Pegawai
